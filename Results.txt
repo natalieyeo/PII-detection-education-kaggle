@@ -1,0 +1,367 @@
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 229, False Positive: 132, False Negative: 131
+Weighted Precision: 0.6709186322504079
+Weighted Recall: 0.6361111111111111
+Weighted F1: 0.6434298941870492
+Micro F5: 0.6360431577822883
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 180, False Positive: 97, False Negative: 180
+Weighted Precision: 0.6760855094078886
+Weighted Recall: 0.5
+Weighted F1: 0.5619142437263984
+Micro F5: 0.5044734289102081
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 200, False Positive: 107, False Negative: 160
+Weighted Precision: 0.7687041138591526
+Weighted Recall: 0.5555555555555555
+Weighted F1: 0.6142327194355598
+Micro F5: 0.5587192435801009
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 192, False Positive: 152, False Negative: 168
+Weighted Precision: 0.6221801515392359
+Weighted Recall: 0.5333333333333332
+Weighted F1: 0.5463748038196566
+Micro F5: 0.5342465753424658
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 163, False Positive: 45, False Negative: 197
+Weighted Precision: 0.7754600694444443
+Weighted Recall: 0.4527777777777777
+Weighted F1: 0.5619010083873625
+Micro F5: 0.460251954821894
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 218, False Positive: 323, False Negative: 142
+Weighted Precision: 0.5504476047524954
+Weighted Recall: 0.6055555555555555
+Weighted F1: 0.4907828330304359
+Micro F5: 0.5940677077874437
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 180, False Positive: 107, False Negative: 180
+Weighted Precision: 0.6815900713294077
+Weighted Recall: 0.49999999999999994
+Weighted F1: 0.537468736786473
+Micro F5: 0.5039302250457629
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 203, False Positive: 108, False Negative: 157
+Weighted Precision: 0.6527538574651519
+Weighted Recall: 0.5638888888888889
+Weighted F1: 0.5960616561981084
+Micro F5: 0.5668564064010311
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 165, False Positive: 92, False Negative: 195
+Weighted Precision: 0.6832103208709354
+Weighted Recall: 0.4583333333333333
+Weighted F1: 0.5253122517930722
+Micro F5: 0.4634330776709517
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 168, False Positive: 150, False Negative: 192
+Weighted Precision: 0.5206089843344746
+Weighted Recall: 0.4666666666666667
+Weighted F1: 0.48326259196378046
+Micro F5: 0.4687701223438506
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 177, False Positive: 137, False Negative: 183
+Weighted Precision: 0.6007578821482932
+Weighted Recall: 0.4916666666666667
+Weighted F1: 0.5149252363125105
+Micro F5: 0.49409491088683705
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 2, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 139, False Positive: 38, False Negative: 221
+Weighted Precision: 0.7649060457516339
+Weighted Recall: 0.3861111111111112
+Weighted F1: 0.5021015196757771
+Micro F5: 0.3938106134902474
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 0, False Positive: 0, False Negative: 360
+Weighted Precision: 0.0
+Weighted Recall: 0.0
+Weighted F1: 0.0
+Micro F5: 0.0
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 240, False Positive: 95, False Negative: 120
+Weighted Precision: 0.7804812916009235
+Weighted Recall: 0.6666666666666666
+Weighted F1: 0.7170166158657076
+Micro F5: 0.6684520621317622
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 241, False Positive: 105, False Negative: 119
+Weighted Precision: 0.7396443882212383
+Weighted Recall: 0.6694444444444444
+Weighted F1: 0.6705801853703937
+Micro F5: 0.6704472501604964
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 241, False Positive: 121, False Negative: 119
+Weighted Precision: 0.7031019864540045
+Weighted Recall: 0.6694444444444443
+Weighted F1: 0.6723740671157898
+Micro F5: 0.6693014313180944
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 238, False Positive: 123, False Negative: 122
+Weighted Precision: 0.7479725960432481
+Weighted Recall: 0.6611111111111111
+Weighted F1: 0.671644144886697
+Micro F5: 0.6610404871274437
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 205, False Positive: 94, False Negative: 155
+Weighted Precision: 0.7369923651721898
+Weighted Recall: 0.5694444444444444
+Weighted F1: 0.6233285028368662
+Micro F5: 0.573179911818475
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 194, False Positive: 54, False Negative: 166
+Weighted Precision: 0.7940879691316899
+Weighted Recall: 0.5388888888888889
+Weighted F1: 0.6347473546720674
+Micro F5: 0.5454152249134948
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 159, False Positive: 49, False Negative: 201
+Weighted Precision: 0.7742340067340067
+Weighted Recall: 0.44166666666666665
+Weighted F1: 0.545509422631481
+Micro F5: 0.44895742832319724
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 189, False Positive: 70, False Negative: 171
+Weighted Precision: 0.7474980835539918
+Weighted Recall: 0.525
+Weighted F1: 0.5956543425421931
+Micro F5: 0.5307268603520898
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 181, False Positive: 104, False Negative: 179
+Weighted Precision: 0.803391640866873
+Weighted Recall: 0.5027777777777778
+Weighted F1: 0.5959720066888543
+Micro F5: 0.5068389876144319
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 188, False Positive: 157, False Negative: 172
+Weighted Precision: 0.7251607540144316
+Weighted Recall: 0.5222222222222221
+Weighted F1: 0.5848706467167114
+Micro F5: 0.5230604601391118
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 153, False Positive: 40, False Negative: 207
+Weighted Precision: 0.7887297453703703
+Weighted Recall: 0.425
+Weighted F1: 0.5413443299461705
+Micro F5: 0.43272054824322853
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 187, False Positive: 116, False Negative: 173
+Weighted Precision: 0.6951140350877193
+Weighted Recall: 0.5194444444444445
+Weighted F1: 0.5642380913694587
+Micro F5: 0.5226271095345587
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 171, False Positive: 112, False Negative: 189
+Weighted Precision: 0.6920606254428705
+Weighted Recall: 0.47500000000000003
+Weighted F1: 0.5335900432679078
+Micro F5: 0.4789399978455241
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 175, False Positive: 53, False Negative: 185
+Weighted Precision: 0.7340199878400973
+Weighted Recall: 0.4861111111111111
+Weighted F1: 0.5823076177819407
+Micro F5: 0.49306458604247944
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 188, False Positive: 129, False Negative: 172
+Weighted Precision: 0.6334939253271634
+Weighted Recall: 0.5222222222222221
+Weighted F1: 0.555504933729936
+Micro F5: 0.5246323924009875
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 172, False Positive: 76, False Negative: 188
+Weighted Precision: 0.7124919508509101
+Weighted Recall: 0.47777777777777775
+Weighted F1: 0.5455356085896252
+Micro F5: 0.4835640138408305
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 32, 'Num Transformer Heads': 2, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 171, False Positive: 110, False Negative: 189
+Weighted Precision: 0.6862768440709618
+Weighted Recall: 0.47500000000000003
+Weighted F1: 0.4848971513796465
+Micro F5: 0.47904320655101823
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 215, False Positive: 302, False Negative: 145
+Weighted Precision: 0.572524879199212
+Weighted Recall: 0.5972222222222222
+Weighted F1: 0.5587607637474377
+Micro F5: 0.5873699695282126
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 154, False Positive: 108, False Negative: 206
+Weighted Precision: 0.649238032498902
+Weighted Recall: 0.4277777777777777
+Weighted F1: 0.487716687200055
+Micro F5: 0.4323040380047506
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 195, False Positive: 134, False Negative: 165
+Weighted Precision: 0.6404971307941604
+Weighted Recall: 0.5416666666666666
+Weighted F1: 0.5811394170408201
+Micro F5: 0.5434666094972666
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 211, False Positive: 208, False Negative: 149
+Weighted Precision: 0.531480920654149
+Weighted Recall: 0.586111111111111
+Weighted F1: 0.5465088046752807
+Micro F5: 0.582439749442616
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 179, False Positive: 67, False Negative: 181
+Weighted Precision: 0.7506363081363081
+Weighted Recall: 0.4972222222222222
+Weighted F1: 0.5871439563393696
+Micro F5: 0.5033528012113346
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 64, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 154, False Positive: 60, False Negative: 206
+Weighted Precision: 0.7092402570480928
+Weighted Recall: 0.4277777777777777
+Weighted F1: 0.5178118943202255
+Micro F5: 0.43455611026698504
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 174, False Positive: 239, False Negative: 186
+Weighted Precision: 0.616547379329675
+Weighted Recall: 0.4833333333333333
+Weighted F1: 0.4688910392733196
+Micro F5: 0.4806119196855413
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 156, False Positive: 81, False Negative: 204
+Weighted Precision: 0.6997578138707172
+Weighted Recall: 0.43333333333333324
+Weighted F1: 0.4881263092798192
+Micro F5: 0.4391036050665801
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 48, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 156, False Positive: 397, False Negative: 204
+Weighted Precision: 0.41455555555555557
+Weighted Recall: 0.4333333333333333
+Weighted F1: 0.22448597847506443
+Micro F5: 0.42457866638752223
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 201, False Positive: 150, False Negative: 159
+Weighted Precision: 0.5864237441464453
+Weighted Recall: 0.5583333333333333
+Weighted F1: 0.5503005209693264
+Micro F5: 0.5588707090150786
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 188, False Positive: 110, False Negative: 172
+Weighted Precision: 0.6430803662590767
+Weighted Recall: 0.5222222222222223
+Weighted F1: 0.5402869440584958
+Micro F5: 0.5257044525704453
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 24, 'Num Transformer Heads': 4, 'ff_dim': 32, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 171, False Positive: 82, False Negative: 189
+Weighted Precision: 0.6339652410179802
+Weighted Recall: 0.475
+Weighted F1: 0.5372840918721925
+Micro F5: 0.4804928131416838
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 146, False Positive: 135, False Negative: 214
+Weighted Precision: 0.7229372317037591
+Weighted Recall: 0.40555555555555556
+Weighted F1: 0.4828557332721553
+Micro F5: 0.40900765003771145
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 142, False Positive: 99, False Negative: 218
+Weighted Precision: 0.6040623966486605
+Weighted Recall: 0.39444444444444443
+Weighted F1: 0.4411713094976969
+Micro F5: 0.3995238610539985
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 64, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 121, False Positive: 62, False Negative: 239
+Weighted Precision: 0.5983478471214321
+Weighted Recall: 0.3361111111111111
+Weighted F1: 0.4205859957401491
+Micro F5: 0.3425895676794076
+
+{'Model Description': 'NER Transformer With One LSTM', 'Sample Random State': 72, 'Epochs': 5, 'embed_dim': 48, 'Num Transformer Heads': 4, 'ff_dim': 96, 'Batch Size': 16}
+processed 9843 tokens
+True Positive: 278, False Positive: 126, False Negative: 82
+Weighted Precision: 0.6950490196078432
+Weighted Recall: 0.7722222222222221
+Weighted F1: 0.7249889381220358
+Micro F5: 0.7686091025095704

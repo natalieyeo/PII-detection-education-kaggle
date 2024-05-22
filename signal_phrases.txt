@@ -1,0 +1,51 @@
+according to
+acknowledges/acknowledged
+adds/added
+addresses/addressed
+argues/argued
+asserts/asserted
+comments/commented
+concedes/conceded
+concludes/concluded
+confirms/confirmed
+contends/contended
+declares/declared
+defines/defined
+draws attention to/has drawn attention to
+emphasizes/emphasized
+explains/explained
+finds/found
+mentions/mentioned
+notes/noted
+observes/observed
+points out/pointed out
+professes/professed
+proposes/proposed
+puts forth/put forth
+reasons/reasoned
+recognizes/recognized
+reports/reported
+reveals/revealed
+shows/showed
+states/stated
+writes/wrote
+believes/believed
+cautions/cautioned
+claims/claimed
+endorses/endorsed
+estimates/estimated
+implies/implied
+indicates/indicated
+recommends/recommended
+speculates/speculated
+suggests/suggested
+surmises/surmised
+thinks/thought
+warns/warned
+counters/countered
+denies/denied
+disputes/disputed
+refutes/refuted
+rejects/rejected
+retorts/retorted
+says/said
