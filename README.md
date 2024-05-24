@@ -50,9 +50,9 @@ Further research could also be done to evaluate the performance of large, pre-tr
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
-
-##### Contact and Further Information
+- [Exploratory Data Analysis](https://github.com/natalieyeo/PII-detection-education-kaggle/blob/main/Exploratory%20Data%20Analysis.ipynb)
+- [Baseline Presidio Analyzer Analysis](https://github.com/natalieyeo/PII-detection-education-kaggle/blob/main/Presidio-Analyzer.ipynb)
+- [Results](https://github.com/natalieyeo/PII-detection-education-kaggle/blob/main/Results.ipynb)
+- Appendix:
+- [Custom NLP Functions](https://github.com/natalieyeo/PII-detection-education-kaggle/blob/main/nlp-functions.ipynb)
+- [Results from Model Runs](https://github.com/natalieyeo/PII-detection-education-kaggle/blob/main/nlp-models.ipynb)
